@@ -1,2 +1,2 @@
-# Curo-Web-Alicante-Oscar
+# Curso-Web-Alicante-Oscar
 Proyecto web
